@@ -10,8 +10,8 @@ I'm an evolutionary agroecologist with a strong background in plant genetics, ec
 
 ## 🚀 Projects
 
-- [**Labelyst.jl**](https://github.com/emanuel-kopp/labelyst.jl) – A Julia interface for Typst, simplifying reproducible unit labeling for scientific experiments.
-- [**uzh-mnf-phd**](https://github.com/emanuel-kopp/uzh-mnf-phd) – An unofficial Typst template for PhD theses at UZH (Mathematisch-naturwissenschaftliche Fakultät).
+- [**Labelyst.jl**](https://github.com/emanuel-kopp/labelyst.jl) – A Julia package for generating printable labels (with QR codes and metadata) for experimental setups. Converts a DataFrame into a Typst document and optionally compiles it into a ready-to-print PDF. Designed for flexible use in lab and field settings (e.g. pot labels, adhesive sample tags).
+- [**uzh-mnf-phd**](https://github.com/emanuel-kopp/uzh-mnf-phd) – An unofficial Typst template for PhD theses at the University of Zurich’s Faculty of Science.
 
 ---
 
