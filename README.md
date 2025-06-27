@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Emanuel Kopp
 
-<!--
-**emanuel-kopp/emanuel-kopp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an evolutionary agroecologist with a strong background in plant genetics, ecological modeling, and statistical analysis. I hold a PhD in Ecology from the University of Zurich, where I explored plant cooperation and competition using genomic and phenotypic data.
 
-Here are some ideas to get you started:
+🔍 I love working at the intersection of ecology, data science, and reproducible research.  
+📊 I specialize in R and Julia, with growing experience in machine learning and scientific software development.  
+🌱 I'm particularly interested in applications of novel concepts and methods to bridge ecology, evolutionary biology and agriculture. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+- [**labelyst.jl**](https://github.com/emanuel-kopp/labelyst.jl) – A Julia interface for Typst, simplifying reproducible unit labeling for scientific experiments.
+- [**uzh-mnf-phd**](https://github.com/emanuel-kopp/uzh-mnf-phd) – An unofficial Typst template for PhD theses at UZH (MN Faculty).
+
+---
+
+## 🛠️ Skills
+
+- **Programming:** Julia, R, Python (basic), Git
+- **Stats & ML:** Mixed models, cross-validation, PCA, random forests, initial DL (Flux.jl)
+- **Domains:** Evolutionary ecology, agroecology, genomics
+- **Tools:** GitHub, Typst, RMarkdown, LaTeX
+
+---
