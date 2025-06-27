@@ -3,7 +3,7 @@
 I'm an evolutionary agroecologist with a strong background in plant genetics, ecological modeling, and statistical analysis. I hold a PhD in Ecology from the University of Zurich, where I explored plant cooperation and competition using genomic and phenotypic data.
 
 🔍 I love working at the intersection of ecology, data science, and genetics.  
-📊 I specialize in R and Julia, with growing experience in machine learning and scientific software development.  
+📊 I specialize in R and Julia, with growing experience in machine learning and genomic analyses.  
 🌱 I'm particularly interested in applications of novel concepts and methods to bridge ecology, evolutionary biology and agriculture. 
 
 ---
