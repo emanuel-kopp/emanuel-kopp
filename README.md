@@ -18,7 +18,7 @@ I'm an evolutionary agroecologist with a strong background in plant genetics, ec
 ## 🛠️ Skills
 
 - **Programming:** Julia, R, Python, Git
-- **Stats & ML:** Mixed models, cross-validation, PCA, random forests, initial DL (Flux.jl)
+- **Stats & ML:** Mixed models, cross-validation, PCA, machine learning (MLJ.jl), exploring DL (Flux.jl)
 - **Domains:** Evolutionary ecology, agroecology, quantitative genetics and genomics
 - **Tools:** GitHub, Typst, RMarkdown, LaTeX
 
